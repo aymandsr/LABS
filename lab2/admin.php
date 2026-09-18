@@ -30,7 +30,7 @@
             <input type="text" name="Discription" id="" placeholder="Discription" class="info">
             <div class="buttons">
                 <button type="submit" name ="add">Add to store</button>
-                <button type="submit">Delete from store</button>
+                <button type="submit">Delete_from store</button>
             </div>
     </form>
 </body>
