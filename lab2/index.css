@@ -16,6 +16,7 @@ body{
     border-radius: 20px;
     border: 2px solid rgb(136, 146, 0);
     margin: 150px;
+    margin:  150px;
     align-items: center;
     padding: 50px;
     gap: 30px;
@@ -24,6 +25,7 @@ body{
     animation: fadeIn 1s ease-in-out , floating 3s ease-in-out infinite;
     
 }
+
 @keyframes fadeIn {
   from {
     opacity: 0;
